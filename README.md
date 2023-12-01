@@ -5,7 +5,9 @@ Object-Oriented Programming codes used in Java course as examples and references
 ## Download on your computer
 Open a terminal in the directory you want this project in and run this command
 
-```git clone https://github.com/AdhamElshabasy/oop_course.git```
+```
+git clone https://github.com/AdhamElshabasy/oop_course.git
+```
 
 ## Code Guide
 This repo is based on one project with all the codes separated with java packages.
